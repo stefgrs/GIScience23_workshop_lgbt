@@ -17,24 +17,25 @@ This workshop brings together geospatial community, social scientists and anyone
 
 
 ## Programme and timeline
-Activity	Allocated time (minutes)
-Introduction from the organisers	5
-Participant introduction and short pitches: current research highlight and motivation to join the workshop.	45
-Activity 1 – Identify influential factors and realise a conceptual framework
-Guided group discussions on framework’s factors
-•	Participants will be split into groups of 4-5. 
+
+| Activity | Allocated time (minutes) |
+| --- | ----------- |
+| Introduction from the organisers | 5 |
+| Participant introduction and short pitches: current research highlight and motivation to join the workshop. | 45 |
+| Activity 1 – Identify influential factors and realise a conceptual framework. | 55 (30 + 25) | 
+| Guided group discussions on framework’s factors: <li> •	Participants will be split into groups of 4-5. 
 •	Using fictitious “personas” as a starting point, they will discuss potential factors that might impact on housing decision for each persona.
 •	The personas used, while using LGBT+ experiences as the starting point, will incorporate a wide range of intersectional identities.
-•	Factors will be written on post-it notes and collected for the next stage.
+•	Factors will be written on post-it notes and collected for the next stage. 
 Review and clustering of factors
 •	Participants will join a plenary discussion to review the factors identified during the previous discussion.
 •	Similar factors will be merged, missing factors will be identified and proposed. 
-•	A complete set of factors will be classified, and their relationships will be identified (as an ontology). A conceptual framework will be proposed as the outcome of Activity 1.	55 (30 + 25)
-Coffee break	20
-Activity 2 – Identify available and missing datasets and suggest possible methods and tools for analysis and visualisation
-•	Regarding the factors from Activity 1, guided group discussion held on available and missing datasets. The factors identified above will be split across groups for discussion. 
-•	Discussion on GIS methods and tools for missing data, data analytics, visualisation, and prediction in relation to the factors and their relationships.	55
-	Total = 180 (3 hours)
+•	A complete set of factors will be classified, and their relationships will be identified (as an ontology). A conceptual framework will be proposed as the outcome of Activity 1. |  |
+| Coffee break | 20 |
+| Activity 2 – Identify available and missing datasets and suggest possible methods and tools for analysis and visualisation. | 55 |
+| •	Regarding the factors from Activity 1, guided group discussion held on available and missing datasets. The factors identified above will be split across groups for discussion. •	Discussion on GIS methods and tools for missing data, data analytics, visualisation, and prediction in relation to the factors and their relationships. | |
+
+Total duration = 3 hours
 
 
 
