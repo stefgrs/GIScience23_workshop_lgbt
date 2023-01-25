@@ -14,26 +14,27 @@ This workshop brings together geospatial community, social scientists and anyone
 
 ## Programme and timeline
 
-* All information available in the pdf in the repo, as well.
+(All information is available in the pdf in the repo, as well.)
 
+The workshop will be structured as follows:
 
 1. Introduction from the organisers (5 minutes)
 2. Participant introduction and short pitches: current research highlight and motivation to join the workshop. (45 minutes)
 3. Activity 1 – Identify influential factors and realise a conceptual framework.
-  - First, there will be a guided group discussions on framework’s factors (30 minutes):	
-      - Participants will be split into groups of 4-5. 
-      - Using fictitious “personas” as a starting point, they will discuss potential factors that might impact on housing decision for each persona.
-      - The personas used, while using LGBT+ experiences as the starting point, will incorporate a wide range of intersectional identities.
-      - Factors will be written on post-it notes and collected for the next stage. 
-  - Then, there will be review and clustering of factors (25 minutes):
-    -	Participants will join a plenary discussion to review the factors identified during the previous discussion.
-    -	Similar factors will be merged, missing factors will be identified and proposed. 
-    -	A complete set of factors will be classified, and their relationships will be identified (as an ontology). A conceptual framework will be proposed as the outcome of Activity 1.
+    * First, there will be a guided group discussions on framework’s factors (30 minutes):	
+      * Participants will be split into groups of 4-5. 
+      * Using fictitious “personas” as a starting point, they will discuss potential factors that might impact on housing decision for each persona.
+      * The personas used, while using LGBT+ experiences as the starting point, will incorporate a wide range of intersectional identities.
+      * Factors will be written on post-it notes and collected for the next stage. 
+    * Then, there will be review and clustering of factors (25 minutes):
+      *	Participants will join a plenary discussion to review the factors identified during the previous discussion.
+      *	Similar factors will be merged, missing factors will be identified and proposed. 
+      *	A complete set of factors will be classified, and their relationships will be identified (as an ontology). A conceptual framework will be proposed as the outcome of Activity 1.
 4. Coffee break (20 minutes)
 5. Activity 2 – Identify available and missing datasets and suggest possible methods and tools for analysis and visualisation (55 minutes).
-  - Regarding the factors from Activity 1, guided group discussion will be held on available and missing datasets. 
-  - The factors identified above will be split across groups for discussion.
-  - Discussion on GIS methods and tools for missing data, data analytics, visualisation, and prediction in relation to the factors and their relationships.
+    * Regarding the factors from Activity 1, guided group discussion will be held on available and missing datasets. 
+    * The factors identified above will be split across groups for discussion.
+    * Discussion on GIS methods and tools for missing data, data analytics, visualisation, and prediction in relation to the factors and their relationships.
 
 
 Total duration = 3 hours
