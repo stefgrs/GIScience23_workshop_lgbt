@@ -1,6 +1,6 @@
 # Location matters: identifying and measuring space-based inequalities for LGBT+ people 
 
-Organisers: Dr Stef Garasto & Dr Jia Wang. School of Computing & Mathematical Sciences, University of Greenwich
+Organisers: Dr Stef Garasto (s.garasto@gre.ac.uk) & Dr Jia Wang (j.wang@gre.ac.uk). School of Computing & Mathematical Sciences, University of Greenwich
 
 When and where: GIScience 2023 conference, 12th September, afternoon.
 
