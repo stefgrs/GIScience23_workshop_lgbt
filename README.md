@@ -2,7 +2,7 @@
 
 Organisers: Dr Stef Garasto (s.garasto@gre.ac.uk) & Dr Jia Wang (j.wang@gre.ac.uk). School of Computing & Mathematical Sciences, University of Greenwich
 
-When and where: GIScience 2023 conference, 12th September, afternoon.
+When and where: 12th September, afternoon, GIScience conference, Leeds university.
 
 Updated on: 03/07/2023
 
