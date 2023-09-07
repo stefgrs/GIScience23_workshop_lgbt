@@ -2,7 +2,7 @@
 
 Organisers: Dr Stef Garasto (s.garasto@gre.ac.uk) & Dr Jia Wang (j.wang@gre.ac.uk). School of Computing & Mathematical Sciences, University of Greenwich
 Speakers: Dr PJ Annand, University of Surrey; Yijing Li, King's College London.
-When and where: 12th September, afternoon, GIScience conference, Leeds university.
+When and where: 12th September, afternoon, GIScience conference, Leeds university, Maurice Keyworth Building.
 
 Updated on: 03/07/2023
 
