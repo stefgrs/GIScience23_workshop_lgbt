@@ -1,7 +1,7 @@
 # Location matters: identifying and measuring space-based inequalities for LGBT+ people 
 
 Organisers: Dr Stef Garasto (s.garasto@gre.ac.uk) & Dr Jia Wang (j.wang@gre.ac.uk). School of Computing & Mathematical Sciences, University of Greenwich
-Speakers: Dr PJ Annand, University of Surrey; further speakers TBC.
+Speakers: Dr PJ Annand, University of Surrey; Yijing Li, King's College London.
 When and where: 12th September, afternoon, GIScience conference, Leeds university.
 
 Updated on: 03/07/2023
@@ -33,10 +33,11 @@ We welcome contributions in any area related to the social and spatial inequalit
 The workshop will be structured as follows:
 
 1. Introduction from the organisers (**10 minutes**)
-2. Introduction to participatory methods (**10 minutes**)
-3. Participant introduction and short pitches: current research highlight and motivation to join the workshop. (**35 minutes**)
-4. Coffee break (**10 minutes**)
-5. Activity 1 – Identify influential factors and realise a conceptual framework.
+2. Introduction to spatial inequalities and livability measures (**10 minutes**)
+3. Introduction to participatory methods (**10 minutes**)
+4. Participant questions, introduction and short pitches: current research highlight and motivation to join the workshop. (**30 minutes**)
+5. Coffee break (**10 minutes**)
+6. Activity 1 – Identify influential factors and realise a conceptual framework.
     * First, there will be a guided group discussions on framework’s factors (**25 minutes**):	
       * Participants will be split into groups of 3-5. 
       * Using fictitious “personas” as a starting point, they will discuss potential factors that might impact on housing decision for each persona.
@@ -45,8 +46,8 @@ The workshop will be structured as follows:
     * Then, there will be review and clustering of factors (**25 minutes**):
       *	Participants will join a plenary discussion to review the factors identified during the previous discussion.
       *	A complete set of factors will be classified, and their relationships will be identified (as an ontology). A conceptual framework will be proposed as the outcome of Activity 1.
-6. Coffee break (**20 minutes**)
-7. Activity 2 – Identify available and missing datasets and suggest possible methods and tools for analysis and visualisation (**45 minutes**).
+7. Coffee break (**15 minutes**)
+8. Activity 2 – Identify available and missing datasets and suggest possible methods and tools for analysis and visualisation (**45 minutes**).
     * Regarding the factors from Activity 1, guided group discussion will be held on available and missing datasets. 
     * The factors identified above will be split across groups for discussion.
     * Discussion on relevant GIS methods and tools for missing data, formal representation, data analytics and modelling, visualisation and prediction. Reflections on how to adapt these methods for co-produced inquiry.
