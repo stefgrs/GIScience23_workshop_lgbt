@@ -2,9 +2,9 @@
 
 Organisers: Dr Stef Garasto (s.garasto@gre.ac.uk) & Dr Jia Wang (j.wang@gre.ac.uk). School of Computing & Mathematical Sciences, University of Greenwich
 Speakers: Dr PJ Annand, University of Surrey; Yijing Li, King's College London.
-When and where: 12th September, afternoon, GIScience conference, Leeds university, Maurice Keyworth Building.
+When and where: 12th September 2023, 2-5pm, Room 1.05 Maurice Keyworth Building, Leeds university, GIScience conference.
 
-Updated on: 03/07/2023
+Updated on: 08/09/2023
 
 
 ## Call for Participation
@@ -33,9 +33,9 @@ We welcome contributions in any area related to the social and spatial inequalit
 The workshop will be structured as follows:
 
 1. Introduction from the organisers (**10 minutes**)
-2. Introduction to spatial inequalities and livability measures (**10 minutes**)
-3. Introduction to participatory methods (**10 minutes**)
-4. Participant questions, introduction and short pitches: current research highlight and motivation to join the workshop. (**30 minutes**)
+2. Introduction to spatial inequalities and livability measures (**20 minutes**)
+3. Introduction to participatory methods (**5 minutes**)
+4. Participant questions, introduction and short pitches: current research highlight and motivation to join the workshop. (**25 minutes**)
 5. Coffee break (**10 minutes**)
 6. Activity 1 – Identify influential factors and realise a conceptual framework.
     * First, there will be a guided group discussions on framework’s factors (**25 minutes**):	
