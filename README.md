@@ -33,7 +33,7 @@ We welcome contributions in any area related to the social and spatial inequalit
 The workshop will be structured as follows:
 
 1. Introduction from the organisers (**10 minutes**)
-2. Introduction to spatial inequalities and livability measures (**20 minutes**)
+2. Invited Talk: "Urban Accessibility- from Whose shoes?", Yijing Li, King's College London  (**20 minutes**)
 3. Introduction to participatory methods (**5 minutes**)
 4. Participant questions, introduction and short pitches: current research highlight and motivation to join the workshop. (**25 minutes**)
 5. Coffee break (**10 minutes**)
