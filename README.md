@@ -35,9 +35,9 @@ We welcome contributions in any area related to the social and spatial inequalit
 The workshop will be structured as follows:
 
 1. Introduction from the organisers (**10 minutes**)
-2. Invited Talk: "Urban Accessibility - from Whose shoes?", Yijing Li, King's College London  (**20 minutes**)
-3. Invited Talk: "Introduction to participatory methods", PJ Annand, King's College London (**5 minutes**)
-4. Participant introduction: current research highlight and motivation to join the workshop. (**25 minutes**)
+2. Invited Talk: "Urban Accessibility - from Whose shoes?", Yijing Li, King's College London  (**20 minutes (15+5)**)
+3. Invited Talk: "Introduction to participatory methods", PJ Annand, King's College London (**10 minutes (5+5)**)
+4. Participant introduction: current research highlight and motivation to join the workshop. (**20 minutes**)
 5. Coffee break (**10 minutes**)
 6. Activity 1 – Identify influential factors and realise a conceptual framework.
     * First, there will be a guided group discussions on framework’s factors (**25 minutes**):	
